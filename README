@@ -1,0 +1,1 @@
+Take input XML file containing gene expression data by tissue (from NIH bioprojects), and parse out gene, organ/tissue, R/FPKM value, and variance, if relevant.

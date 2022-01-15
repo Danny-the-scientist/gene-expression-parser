@@ -1,0 +1,804 @@
+<data>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465421</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">uterus</field>
+      <field name="sample_id">SAMN03465421</field>
+      <field name="exp_Mcount">13341.1</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465420</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">trachea</field>
+      <field name="sample_id">SAMN03465420</field>
+      <field name="exp_Mcount">14684.3</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465419</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">thyroid</field>
+      <field name="sample_id">SAMN03465419</field>
+      <field name="exp_Mcount">9179.66</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465418</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">thymus</field>
+      <field name="sample_id">SAMN03465418</field>
+      <field name="exp_Mcount">8450.61</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465416</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">stomach</field>
+      <field name="sample_id">SAMN03465416</field>
+      <field name="exp_Mcount">12345.3</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465415</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">spleen</field>
+      <field name="sample_id">SAMN03465415</field>
+      <field name="exp_Mcount">20514.7</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465414</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">small intestine</field>
+      <field name="sample_id">SAMN03465414</field>
+      <field name="exp_Mcount">12278.9</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465413</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">skeletal muscle</field>
+      <field name="sample_id">SAMN03465413</field>
+      <field name="exp_Mcount">12741.2</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465412</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">salivary gland</field>
+      <field name="sample_id">SAMN03465412</field>
+      <field name="exp_Mcount">15854.5</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465411</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">prostate</field>
+      <field name="sample_id">SAMN03465411</field>
+      <field name="exp_Mcount">8269.59</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465410</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">placenta</field>
+      <field name="sample_id">SAMN03465410</field>
+      <field name="exp_Mcount">10905.4</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465409</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">lung</field>
+      <field name="sample_id">SAMN03465409</field>
+      <field name="exp_Mcount">10345.2</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465408</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">liver</field>
+      <field name="sample_id">SAMN03465408</field>
+      <field name="exp_Mcount">12038.3</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465407</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">kidney</field>
+      <field name="sample_id">SAMN03465407</field>
+      <field name="exp_Mcount">7670.26</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465406</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">heart</field>
+      <field name="sample_id">SAMN03465406</field>
+      <field name="exp_Mcount">8697.54</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465405</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">liver, fetal</field>
+      <field name="sample_id">SAMN03465405</field>
+      <field name="exp_Mcount">25675.4</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465404</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">brain, fetal</field>
+      <field name="sample_id">SAMN03465404</field>
+      <field name="exp_Mcount">11894.1</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465403</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">brain, whole</field>
+      <field name="sample_id">SAMN03465403</field>
+      <field name="exp_Mcount">10779.9</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465402</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">brain, cerebellum</field>
+      <field name="sample_id">SAMN03465402</field>
+      <field name="exp_Mcount">6979.07</field>
+   </doc>
+   <doc>
+      <field name="id">metadata_9606_SAMN03465401</field>
+      <field name="is_metadata">true</field>
+      <field name="is_sample">true</field>
+      <field name="project_desc">PRJNA280600</field>
+      <field name="taxid">9606</field>
+      <field name="source_name">adrenal gland</field>
+      <field name="sample_id">SAMN03465401</field>
+      <field name="exp_Mcount">10898.9</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465421</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465421</field>
+<field name="source_name">uterus</field><field name="var">0</field>
+      <field name="full_rpkm">0.133911</field>
+      <field name="exp_rpkm">0.134</field>
+      <field name="exp_total">3155</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465420</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465420</field>
+<field name="source_name">trachea</field><field name="var">0</field>
+      <field name="full_rpkm">0.0232912</field>
+      <field name="exp_rpkm">0.0233</field>
+      <field name="exp_total">604</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465419</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465419</field>
+<field name="source_name">thyroid</field><field name="var">0</field>
+      <field name="full_rpkm">0.0557636</field>
+      <field name="exp_rpkm">0.0558</field>
+      <field name="exp_total">904</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465418</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465418</field>
+<field name="source_name">thymus</field><field name="var">0</field>
+      <field name="full_rpkm">0.525068</field>
+      <field name="exp_rpkm">0.525</field>
+      <field name="exp_total">7836</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465416</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465416</field>
+<field name="source_name">stomach</field><field name="var">0</field>
+      <field name="full_rpkm">0.1676</field>
+      <field name="exp_rpkm">0.168</field>
+      <field name="exp_total">3654</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465415</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465415</field>
+<field name="source_name">spleen</field><field name="var">0</field>
+      <field name="full_rpkm">0.191643</field>
+      <field name="exp_rpkm">0.192</field>
+      <field name="exp_total">6943</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465414</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465414</field>
+<field name="source_name">small intestine</field><field name="var">0</field>
+      <field name="full_rpkm">0.0667294</field>
+      <field name="exp_rpkm">0.0667</field>
+      <field name="exp_total">1447</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465413</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465413</field>
+<field name="source_name">skeletal muscle</field><field name="var">0</field>
+      <field name="full_rpkm">0.203725</field>
+      <field name="exp_rpkm">0.204</field>
+      <field name="exp_total">4584</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465412</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465412</field>
+<field name="source_name">salivary gland</field><field name="var">0</field>
+      <field name="full_rpkm">0.0533948</field>
+      <field name="exp_rpkm">0.0534</field>
+      <field name="exp_total">1495</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465411</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465411</field>
+<field name="source_name">prostate</field><field name="var">0</field>
+      <field name="full_rpkm">0.161393</field>
+      <field name="exp_rpkm">0.161</field>
+      <field name="exp_total">2357</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465410</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465410</field>
+<field name="source_name">placenta</field><field name="var">0</field>
+      <field name="full_rpkm">0.0664106</field>
+      <field name="exp_rpkm">0.0664</field>
+      <field name="exp_total">1279</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465409</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465409</field>
+<field name="source_name">lung</field><field name="var">0</field>
+      <field name="full_rpkm">0.314677</field>
+      <field name="exp_rpkm">0.315</field>
+      <field name="exp_total">5749</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465408</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465408</field>
+<field name="source_name">liver</field><field name="var">0</field>
+      <field name="full_rpkm">92.104</field>
+      <field name="exp_rpkm">92.1</field>
+      <field name="exp_total">1958097</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465407</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465407</field>
+<field name="source_name">kidney</field><field name="var">0</field>
+      <field name="full_rpkm">0.100696</field>
+      <field name="exp_rpkm">0.101</field>
+      <field name="exp_total">1364</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465406</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465406</field>
+<field name="source_name">heart</field><field name="var">0</field>
+      <field name="full_rpkm">0.206512</field>
+      <field name="exp_rpkm">0.207</field>
+      <field name="exp_total">3172</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465405</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465405</field>
+<field name="source_name">liver, fetal</field><field name="var">0</field>
+      <field name="full_rpkm">11.1887</field>
+      <field name="exp_rpkm">11.2</field>
+      <field name="exp_total">507329</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465404</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465404</field>
+<field name="source_name">brain, fetal</field><field name="var">0</field>
+      <field name="full_rpkm">0.414094</field>
+      <field name="exp_rpkm">0.414</field>
+      <field name="exp_total">8698</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465403</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465403</field>
+<field name="source_name">brain, Whole</field><field name="var">0</field>
+      <field name="full_rpkm">0.345846</field>
+      <field name="exp_rpkm">0.346</field>
+      <field name="exp_total">6584</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465402</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465402</field>
+<field name="source_name">brain, cerebellum</field><field name="var">0</field>
+      <field name="full_rpkm">0.125436</field>
+      <field name="exp_rpkm">0.125</field>
+      <field name="exp_total">1546</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">1_SAMN03465401</field>
+      <field name="gene">1</field>
+      <field name="sample_id">SAMN03465401</field>
+<field name="source_name">adrenal gland</field><field name="var">0</field>
+      <field name="full_rpkm">0.0926876</field>
+      <field name="exp_rpkm">0.0927</field>
+      <field name="exp_total">1784</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465421</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465421</field>
+<field name="source_name">uterus</field><field name="var">0</field>
+      <field name="full_rpkm">61.3158</field>
+      <field name="exp_rpkm">61.3</field>
+      <field name="exp_total">4086821</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465420</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465420</field>
+<field name="source_name">trachea</field><field name="var">0</field>
+      <field name="full_rpkm">33.4069</field>
+      <field name="exp_rpkm">33.4</field>
+      <field name="exp_total">2450826</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465419</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465419</field>
+<field name="source_name">thyroid</field><field name="var">0</field>
+      <field name="full_rpkm">25.6321</field>
+      <field name="exp_rpkm">25.6</field>
+      <field name="exp_total">1175530</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465418</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465418</field>
+<field name="source_name">thymus</field><field name="var">0</field>
+      <field name="full_rpkm">10.7986</field>
+      <field name="exp_rpkm">10.8</field>
+      <field name="exp_total">455910</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465416</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465416</field>
+<field name="source_name">stomach</field><field name="var">0</field>
+      <field name="full_rpkm">38.8037</field>
+      <field name="exp_rpkm">38.8</field>
+      <field name="exp_total">2393310</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465415</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465415</field>
+<field name="source_name">spleen</field><field name="var">0</field>
+      <field name="full_rpkm">26.2141</field>
+      <field name="exp_rpkm">26.2</field>
+      <field name="exp_total">2686720</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465414</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465414</field>
+<field name="source_name">small intestine</field><field name="var">0</field>
+      <field name="full_rpkm">42.0035</field>
+      <field name="exp_rpkm">42</field>
+      <field name="exp_total">2576731</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465413</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465413</field>
+<field name="source_name">skeletal muscle</field><field name="var">0</field>
+      <field name="full_rpkm">13.1956</field>
+      <field name="exp_rpkm">13.2</field>
+      <field name="exp_total">839967</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465412</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465412</field>
+<field name="source_name">salivary gland</field><field name="var">0</field>
+      <field name="full_rpkm">10.5784</field>
+      <field name="exp_rpkm">10.6</field>
+      <field name="exp_total">837907</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465411</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465411</field>
+<field name="source_name">prostate</field><field name="var">0</field>
+      <field name="full_rpkm">38.3608</field>
+      <field name="exp_rpkm">38.4</field>
+      <field name="exp_total">1584873</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465410</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465410</field>
+<field name="source_name">placenta</field><field name="var">0</field>
+      <field name="full_rpkm">32.0282</field>
+      <field name="exp_rpkm">32</field>
+      <field name="exp_total">1745007</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465409</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465409</field>
+<field name="source_name">lung</field><field name="var">0</field>
+      <field name="full_rpkm">262.89</field>
+      <field name="exp_rpkm">263</field>
+      <field name="exp_total">13587285</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465408</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465408</field>
+<field name="source_name">liver</field><field name="var">0</field>
+      <field name="full_rpkm">200.972</field>
+      <field name="exp_rpkm">201</field>
+      <field name="exp_total">12087152</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465407</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465407</field>
+<field name="source_name">kidney</field><field name="var">0</field>
+      <field name="full_rpkm">53.8657</field>
+      <field name="exp_rpkm">53.9</field>
+      <field name="exp_total">2064167</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465406</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465406</field>
+<field name="source_name">heart</field><field name="var">0</field>
+      <field name="full_rpkm">85.5229</field>
+      <field name="exp_rpkm">85.5</field>
+      <field name="exp_total">3716220</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465405</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465405</field>
+<field name="source_name">liver, fetal</field><field name="var">0</field>
+      <field name="full_rpkm">164.953</field>
+      <field name="exp_rpkm">165</field>
+      <field name="exp_total">21159273</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465404</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465404</field>
+<field name="source_name">brain, fetal</field><field name="var">0</field>
+      <field name="full_rpkm">7.88059</field>
+      <field name="exp_rpkm">7.88</field>
+      <field name="exp_total">468286</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465403</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465403</field>
+<field name="source_name">brain, Whole</field><field name="var">0</field>
+      <field name="full_rpkm">11.018</field>
+      <field name="exp_rpkm">11</field>
+      <field name="exp_total">593391</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465402</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465402</field>
+<field name="source_name">brain, cerebellum</field><field name="var">0</field>
+      <field name="full_rpkm">11.1931</field>
+      <field name="exp_rpkm">11.2</field>
+      <field name="exp_total">390276</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">2_SAMN03465401</field>
+      <field name="gene">2</field>
+      <field name="sample_id">SAMN03465401</field>
+<field name="source_name">adrenal gland</field><field name="var">0</field>
+      <field name="full_rpkm">52.2772</field>
+      <field name="exp_rpkm">52.3</field>
+      <field name="exp_total">2846540</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465421</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465421</field>
+<field name="source_name">uterus</field><field name="var">0</field>
+      <field name="full_rpkm">0.0215945</field>
+      <field name="exp_rpkm">0.0216</field>
+      <field name="exp_total">346</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465420</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465420</field>
+<field name="source_name">trachea</field><field name="var">0</field>
+      <field name="full_rpkm">0.013155</field>
+      <field name="exp_rpkm">0.0132</field>
+      <field name="exp_total">232</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465419</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465419</field>
+<field name="source_name">thyroid</field><field name="var">0</field>
+      <field name="full_rpkm">0.0996846</field>
+      <field name="exp_rpkm">0.0997</field>
+      <field name="exp_total">1099</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465418</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465418</field>
+<field name="source_name">thymus</field><field name="var">0</field>
+      <field name="full_rpkm">0.110157</field>
+      <field name="exp_rpkm">0.11</field>
+      <field name="exp_total">1118</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465416</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465416</field>
+<field name="source_name">stomach</field><field name="var">0</field>
+      <field name="full_rpkm">0.147436</field>
+      <field name="exp_rpkm">0.147</field>
+      <field name="exp_total">2186</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465415</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465415</field>
+<field name="source_name">spleen</field><field name="var">0</field>
+      <field name="full_rpkm">0.0814997</field>
+      <field name="exp_rpkm">0.0815</field>
+      <field name="exp_total">2008</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465414</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465414</field>
+<field name="source_name">small intestine</field><field name="var">0</field>
+      <field name="full_rpkm">0.0461111</field>
+      <field name="exp_rpkm">0.0461</field>
+      <field name="exp_total">680</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465413</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465413</field>
+<field name="source_name">skeletal muscle</field><field name="var">0</field>
+      <field name="full_rpkm">0.00692713</field>
+      <field name="exp_rpkm">0.00693</field>
+      <field name="exp_total">106</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465412</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465412</field>
+<field name="source_name">salivary gland</field><field name="var">0</field>
+      <field name="full_rpkm">0.00236329</field>
+      <field name="exp_rpkm">0.00236</field>
+      <field name="exp_total">45</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465411</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465411</field>
+<field name="source_name">prostate</field><field name="var">0</field>
+      <field name="full_rpkm">0.00765221</field>
+      <field name="exp_rpkm">0.00765</field>
+      <field name="exp_total">76</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465410</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465410</field>
+<field name="source_name">placenta</field><field name="var">0</field>
+      <field name="full_rpkm">0</field>
+      <field name="exp_rpkm">0</field>
+      <field name="exp_total">0</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465409</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465409</field>
+<field name="source_name">lung</field><field name="var">0</field>
+      <field name="full_rpkm">0.0769446</field>
+      <field name="exp_rpkm">0.0769</field>
+      <field name="exp_total">956</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465408</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465408</field>
+<field name="source_name">liver</field><field name="var">0</field>
+      <field name="full_rpkm">0.012519</field>
+      <field name="exp_rpkm">0.0125</field>
+      <field name="exp_total">181</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465407</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465407</field>
+<field name="source_name">kidney</field><field name="var">0</field>
+      <field name="full_rpkm">0.020951</field>
+      <field name="exp_rpkm">0.021</field>
+      <field name="exp_total">193</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465406</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465406</field>
+<field name="source_name">heart</field><field name="var">0</field>
+      <field name="full_rpkm">0.0169447</field>
+      <field name="exp_rpkm">0.0169</field>
+      <field name="exp_total">177</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465405</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465405</field>
+<field name="source_name">liver, fetal</field><field name="var">0</field>
+      <field name="full_rpkm">0</field>
+      <field name="exp_rpkm">0</field>
+      <field name="exp_total">0</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465404</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465404</field>
+<field name="source_name">brain, fetal</field><field name="var">0</field>
+      <field name="full_rpkm">0.0198813</field>
+      <field name="exp_rpkm">0.0199</field>
+      <field name="exp_total">284</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465403</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465403</field>
+<field name="source_name">brain, Whole</field><field name="var">0</field>
+      <field name="full_rpkm">0.0346807</field>
+      <field name="exp_rpkm">0.0347</field>
+      <field name="exp_total">449</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465402</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465402</field>
+<field name="source_name">brain, cerebellum</field><field name="var">0</field>
+      <field name="full_rpkm">0.183492</field>
+      <field name="exp_rpkm">0.183</field>
+      <field name="exp_total">1538</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+   <doc>
+      <field name="id">3_SAMN03465401</field>
+      <field name="gene">3</field>
+      <field name="sample_id">SAMN03465401</field>
+<field name="source_name">adrenal gland</field><field name="var">0</field>
+      <field name="full_rpkm">0.194964</field>
+      <field name="exp_rpkm">0.195</field>
+      <field name="exp_total">2552</field>
+      <field name="project_desc">PRJNA280600</field>
+   </doc>
+
+</data>
+
